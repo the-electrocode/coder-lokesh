@@ -1,4 +1,4 @@
-### Hi there, Its me Techno-Veera 👋
+<div style="text-align:'center';>### Hi there, Its me Techno-Veera 👋</div>
 ## My self Lokesh Sharma, I am having a great intrest in learning new languages and technologies.
 <!--
 **techno-veera/techno-veera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
