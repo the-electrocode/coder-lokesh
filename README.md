@@ -22,6 +22,10 @@
 
 <p align="left"> <a href="https://twitter.com/lokeshs97047988" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshs97047988?logo=twitter&style=for-the-badge" alt="lokeshs97047988" /></a></p>
 
+<a href="https://www.linkedin.com/in/lokesh-sharma-908857193/" rel="nofollow"><img src="https://camo.githubusercontent.com/c7ea36318db9f297c4fe4f353b5fb926fe10e7ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e2d4c696e6b6564496e2d426c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="" data-canonical-src="https://img.shields.io/badge/.-LinkedIn-Blue?style=for-the-badge&amp;logo=linkedin" style="max-width:100%;"></a>
+
+<a href="mailto:veerasharma0000@gmail.com"><img src="https://camo.githubusercontent.com/45a7a0ea0c84f06baac2e01650a3905d6ac7627e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e2d476d61696c2d5265643f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" alt="" data-canonical-src="https://img.shields.io/badge/.-Gmail-Red?style=for-the-badge&amp;logo=gmail" style="max-width:100%;"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-veera&label=Profile%20views&color=0e75b6&style=flat" alt="techno-veera" /> </p>
 
 <hr>
