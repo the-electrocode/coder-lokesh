@@ -9,27 +9,23 @@
 
 - 🔭 I’m currently working on [Smart Attandance System]
 
-- 📫 How to reach me at Linkedln [https://www.linkedin.com/in/lokesh-sharma-908857193/](https://www.linkedin.com/in/lokesh-sharma-908857193/)
+- 📫 How to reach me at Linkedln **https://www.linkedin.com/in/lokesh-sharma-908857193/**(https://www.linkedin.com/in/lokesh-sharma-908857193/)
 
-- 📫 How to reach me at Instagram [https://www.instagram.com/_itsmeveera_/](https://www.instagram.com/_itsmeveera_/)
+- 📫 How to reach me at Instagram **https://www.instagram.com/_itsmeveera_/** (https://www.instagram.com/_itsmeveera_/)
 
-- 💬 Ask me about **Python ,WebDevelopment, DjangoDevelopment**
-
-- 📫 How to reach me at Facebook [https://www.facebook.com/profile.php?id=100027676968883](https://www.facebook.com/profile.php?id=100027676968883)
-
+- 📫 How to reach me at Facebook **https://www.facebook.com/profile.php?id=100027676968883** (https://www.facebook.com/profile.php?id=100027676968883)
 
 - 📫 How to reach me at Twitter **https://twitter.com/lokeshs97047988**
 
+- 💬 Ask me about **Python ,WebDevelopment, DjangoDevelopment**
 
-
-<h1 align="center">Hi 👋, I'm techno-veera</h1>
-<h3 align="center">A passionate developer from India ,</h3>
+<p align="left"> <a href="https://twitter.com/lokeshs97047988" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshs97047988?logo=twitter&style=for-the-badge" alt="lokeshs97047988" /></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-veera&label=Profile%20views&color=0e75b6&style=flat" alt="techno-veera" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techno-veera" alt="techno-veera" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lokeshs97047988" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshs97047988?logo=twitter&style=for-the-badge" alt="lokeshs97047988" /></a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
