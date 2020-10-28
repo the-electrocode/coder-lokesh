@@ -1,7 +1,7 @@
  ### Hi there, Its me Techno-Veera 👋
 ## My self Lokesh Sharma, I am having a great intrest in learning new languages and technologies.
 
-- 🌱 I’m currently learning **Django , JavaScript, Docker**
+- 🌱 I’m currently learning **Django , JavaScript, Devopes**
 
 - 🔭 I’m currently working on [Coding World](https://www.youtube.com/watch?v=0GMfSpxbGsI)
 
