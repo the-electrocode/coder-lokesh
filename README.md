@@ -37,7 +37,7 @@
 
 ## 🌱 I’m currently learning ...
 - **Data Science**
--**Machine Learning**
+- **Machine Learning**
 - **Artificial Intelligense**
 <br/>
   <br/>
