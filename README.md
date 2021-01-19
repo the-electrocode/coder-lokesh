@@ -44,9 +44,10 @@
 
 
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-lokesh&&show_icons=true&theme=radical" alt="Lokesh Github Stats">
-</p>  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=coder-lokesh&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coder-lokesh&hide_langs_below=.25&theme=radical">
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -70,4 +71,8 @@
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoder-lokesh%2F" /></p>
 <br/>
 <p>
+
+<p align="center">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+</p>
 
